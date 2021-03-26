@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/start_activity_nav"
+        android:onClick="onClickStart"
+        android:title="@string/start" />
+    <item
+        android:id="@+id/history_activity_nav"
+        android:onClick="onClickHistory"
+        android:title="@string/history" />
+</menu>
