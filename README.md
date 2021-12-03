@@ -1,5 +1,5 @@
 # MyRuns
-## Liam Prevelige
+#### Created by Liam Prevelige
 
 This repository contains the code for the Android application MyRuns, a platform to track and store
 your workouts! Sign in or register a new account to get started.
