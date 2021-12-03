@@ -9,3 +9,5 @@ and key data - velocity, altitude, distance, etc. - in real time. Once you have 
 exercise, end the session to store your exercise information in the 'history' panel.
 
 Change units, privacy settings, and update your profile in the settings page.
+
+Developed for Android Oreo, although may be compatible with other versions. 
